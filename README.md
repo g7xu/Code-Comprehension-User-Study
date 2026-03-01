@@ -25,7 +25,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Research
 
-![Product Name Screen Shot](image/flowchart.png)
+![Product Name Screen Shot](static/images/flowchart.png)
 This is a screenshot of our research result
 
 <br><br>
